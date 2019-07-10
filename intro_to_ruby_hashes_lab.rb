@@ -31,7 +31,6 @@ def monopoly_with_second_tier
 			three_pieces_owned: 100
 		}
 	}
-	}
 end
 
 def monopoly_with_third_tier
